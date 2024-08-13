@@ -1,7 +1,7 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: ansible-playbook-template
+  name: aws-blueprint-template
   title: Create AWS Blueprint Project
   description: Create a new starter Ansible playbook Git project preconfigured with best practices to create AWS Blueprints in our organization. The project also scaffolds a collection to help get you started.
   tags:
