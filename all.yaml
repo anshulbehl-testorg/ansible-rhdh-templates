@@ -8,3 +8,5 @@ spec:
     - ./templates/playbooks.yaml
     - ./templates/collections.yaml
     - ./templates/awsblueprint.yaml
+    - ./templates/azureblueprint.yaml
+    - ./templates/gcpblueprint.yaml
